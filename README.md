@@ -1,3 +1,3 @@
 # Spam-Prediction
 This project implements an Email/SMS Spam Predictor, a machine learning-based solution designed to classify incoming messages as either legitimate (ham) or spam. The core of this project involves training a robust machine learning model on a dataset of labeled email and SMS messages.
-The project further extends this functionality by integrating it into a user-friendly web application, built entirely with Python. This web interface allows users to input text and receive an immediate prediction on whether the message is spam, providing a practical demonstration of the model's capabilities.
+The project further extends this functionality by integrating it into a user-friendly web application, built entirely with Python. This web interface allows users to input text and receive an immediate prediction on whether the message is spam, providing a practical demonstration of the model's capabilities. 
